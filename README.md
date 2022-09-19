@@ -1,4 +1,4 @@
-# linux-device-driver-1
+# linux-device-driver
 Repository of Linux device driver programming(LDD1) udemy course 
 
 [LPIC resource](http://linuxcert.ir/)
